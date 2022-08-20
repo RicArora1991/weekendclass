@@ -1,1 +1,1 @@
-This is weekend class and we are learning about GIT and GITHUB.
+This is weekend class and we are learning about GIT and GITHUB SESSION.
